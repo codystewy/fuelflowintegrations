@@ -6,7 +6,7 @@ Fuel Flow Integrations provides tailored, automated workflow and billing solutio
 
 ## Legal Information:
 
-* [End-User License Agreement](https://github.com/codystewy/fuelflowintegrations/blob/main/end_user_lic_agreement)
+* [End-User License Agreement](https://github.com/codystewy/fuelflowintegrations/blob/main/EULA.md)
 
 * [Privacy Policy](https://github.com/codystewy/fuelflowintegrations/blob/main/privacy_policy)
 
